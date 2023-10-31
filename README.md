@@ -18,7 +18,7 @@ See #osc-deployment-best-practices channel in the salesforce.enterprise.slack.co
 - Way 3. 
 
 ## Project Resources and Documentation
-Documentation can be found in the Wiki (https://github.com/SFDO-Community-Sprints/deployment-best-practices/wiki)
+Documentation can be found in the [Wiki](https://github.com/SFDO-Community-Sprints/deployment-best-practices/wiki)
 
 
 

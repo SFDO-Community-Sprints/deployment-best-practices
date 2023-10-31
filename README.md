@@ -10,7 +10,7 @@ Bring the Well Architected Framework from Manifesto of Best Practice to action b
 Nonprofit & Education
 
 ## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
+See #osc-deployment-best-practices channel in the salesforce.enterprise.slack.com workspace (requires invite from Commons program team.)
 
 ## How to Contribute:
 - Way 1.

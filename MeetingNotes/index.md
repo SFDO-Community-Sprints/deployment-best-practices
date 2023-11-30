@@ -4,4 +4,6 @@ nav_order:
 has_children: true
 ---
 
-Top level for Meeting Notes
+# Working Group Notes
+
+Here's where you can review the notes and progress of this group. We're just getting started.

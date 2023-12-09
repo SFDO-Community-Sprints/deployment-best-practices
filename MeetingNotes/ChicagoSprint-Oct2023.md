@@ -1,6 +1,7 @@
 ---
 title: Chicago Sprint October 30-31, 2023 
 parent: MeetingNotes
+has_children: false
 ---
 
 # Project Team & Accomplishments

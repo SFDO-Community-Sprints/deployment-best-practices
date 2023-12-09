@@ -1,6 +1,6 @@
 ---
 title: Meeting Notes of the Working Group 
-nav_order:
+nav_order: 2
 has_children: true
 ---
 

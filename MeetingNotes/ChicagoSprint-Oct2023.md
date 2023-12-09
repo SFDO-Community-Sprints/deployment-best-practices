@@ -1,6 +1,6 @@
 ---
 title: Chicago Sprint October 30-31, 2023 
-parent: MeetingNotes
+parent: Meeting Notes of the Working Group
 has_children: false
 ---
 

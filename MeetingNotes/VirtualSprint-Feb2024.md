@@ -12,7 +12,38 @@ has_children: false
     - Better set up theme and site for those who can figure this stuff out - this is only this far thanks to some help from Jodie and Thad but even without those changes, I can tell you it’s really easy to update via VSCode in simple Markdown files and I can demo tomorrow for those who are willing.
     
 # Attendees
+- Cassie Supilowski
+- Stacy Shealey
+- Ginger Williams
+- Tracey Braun
+- Matt Andrien
+- Heath Parks
+- Jessica Rosenberg
+- Farrah Friedrich
+- Siri Yelamarthi
+- Akash Mishra
+- Antonio Van Laerhoven
 
 # Discussion
 
-# Next Steps
+- Introductions
+- Ideas for how to break up and prioritize
+- What are pros/cons & tradeoffs?
+
+# Themes
+- What are other people doing?
+    - Gearset
+    - Copado
+    - Metecho
+    - Salesforce DevOps Center
+- Challenge in managing scaling complexity
+- Reliance on UI tools
+
+# Focus for Sprint
+
+### Track 1 - Tooling
+
+### Track 2 - Change Management Best Practices
+
+
+

@@ -14,12 +14,12 @@ The work represents the input of a diverse group of nonprofit administrators, en
 
 * Navigating Change Requests _(to come)_
 * [Environment Selection](EnvironmentSelectionGuide.md)
-* Build Phase  
+* Build Phase _(to come)_
 * Data Seeding _(to come)_  
-* Testing Before Deployment  
+* [Testing Before Deployment](TestingBeforeDeployment.md)
 * Deployment _(to come)_  
 * Release Management _(to come)_  
-* Communication and Documentation
+* Communication and Documentation _(to come)_
 
 ## Statement on Third-Party Apps and Tools
 

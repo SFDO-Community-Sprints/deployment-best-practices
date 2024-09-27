@@ -1,5 +1,5 @@
 ---
-title: Testing Before Deployment Best Practices
+title: Testing Before Deployment
 nav_order: 4
 #has_children: false
 ---
